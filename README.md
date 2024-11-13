@@ -17,6 +17,7 @@ Mortality Data: the primary data set used for this analysis is the archive.zip f
 ### **TOOLS**
 - Excel - Data cleaning
 - SQL Server - Data Analysis
+- SPSS
 -  PowerBI - Visualisation
   
 ### **DATA CLEANING AND PREPARATION**
